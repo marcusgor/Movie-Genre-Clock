@@ -1,5 +1,5 @@
 /*
-Name: Marcus Riccio
+Name: Marcus Gerard Riccio
 MovieAndGenreClock.cpp
 Description: Simple C++ class that simulates a user to pick a movie,
 as well as a corresponding timeslot to reserve.
